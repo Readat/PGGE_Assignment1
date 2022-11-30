@@ -1,0 +1,4 @@
+Important scripts changed are:
+TPCBase (RepositionCamera)
+PlayerMovement (New controls, functions like crouching shooting etc)
+Footstep (Plays the footsteps sound as a animation event)
